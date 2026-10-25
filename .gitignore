@@ -1,0 +1,10 @@
+.venv/
+models/
+*.csv.gz
+train-balanced-sarcasm.csv
+train-balanced-sarc.csv.gz
+test-balanced.csv
+test-unbalanced.csv
+**/checkpoint-*/
+__pycache__/
+*.pyc
